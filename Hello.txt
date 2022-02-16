@@ -1,5 +1,3 @@
 Hello World saja
 
 Mencoba melakukan perubahan
-
-Mengubah file dengan metode fork
